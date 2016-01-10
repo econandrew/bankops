@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h2>Individual</h2>
+  <table class="sortable">
+      <tr><th>Selection ID</th><th>Selection title</th><th>EOI Deadline</th><th>Countries</th></tr>
+      {% for page in site.pages %}
+        {% if page.layout == 'notification' %}
+            {% if page.SELECTION_NOTIFICATION.SELECTION_TYPE_ID == 1 %}
+              <tr>
+                  <td>{{ page.SELECTION_NOTIFICATION.SELECTION_ID }}</td>
+                  <td><a href="{{ page.url }}">{{ page.SELECTION_NOTIFICATION.SELECTION_TITLE }}</a></td>
+                  <td>{{ page.SELECTION_NOTIFICATION.EOI_DEADLINE | date: "%Y-%m-%d"}}</td>
+                  <td>{% for country in page.SELECTION_COUNTRY %}{{country.COUNTRY_ID}}{% unless forloop.last %}, {% endunless %}{% endfor %}</td>
+            </tr>
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+  </table>
+
+  <h2>Firm</h2>
+  <table class="sortable">
+      <tr><th>Selection ID</th><th>Selection title</th><th>EOI Deadline</th><th>Countries</th></tr>
+      {% for page in site.pages %}
+        {% if page.layout == 'notification' %}
+            {% if page.SELECTION_NOTIFICATION.SELECTION_TYPE_ID != 1 %}
+              <tr>
+                  <td>{{ page.SELECTION_NOTIFICATION.SELECTION_ID }}</td>
+                  <td><a href="{{ page.url }}">{{ page.SELECTION_NOTIFICATION.SELECTION_TITLE }}</a></td>
+                  <td>{{ page.SELECTION_NOTIFICATION.EOI_DEADLINE | date: "%Y-%m-%d"}}</td>
+                  <td>{% for country in page.SELECTION_COUNTRY %}{{country.COUNTRY_NAME}}<br>{% endfor %}</td>
+            </tr>
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+  </table>
+</div>
