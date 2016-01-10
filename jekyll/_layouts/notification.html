@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.SELECTION_NOTIFICATION.SELECTION_TITLE }} ({{ page.SELECTION_NOTIFICATION.SELECTION_ID }})</h1>
+  </header>
+
+  <div class="post-content">
+      <h2>Selection Information</h2>
+      <table>
+          <tr>
+              <td>Assignment title</td>
+              <td>{{ page.SELECTION_NOTIFICATION.SELECTION_TITLE }}</td>
+          </tr>
+          <tr>
+              <td>Publication date</td>
+              <td>{{ page.SELECTION_NOTIFICATION.PUBLICATION_DATE }}</td>
+          </tr>
+          <tr>
+              <td>Expression of Interest Deadline</td>
+              <td>{{ page.SELECTION_NOTIFICATION.EOI_DEADLINE }}</td>
+          </tr>
+          <tr>
+              <td>Language of Notice</td>
+              <td>{{ page.SELECTION_NOTIFICATION.LANGUAGE_OF_NOTICE }}</td>
+          </tr>          
+    </table>
+    
+    <h2>Selection Notice</h2>
+      <table>
+          <tr>
+              <td>Assignment Country</td>
+              <td>
+                  <ul>
+                  {% for item in page.SELECTION_COUNTRY %}
+                     <li>{{ item.COUNTRY_NAME }}</li>
+                  {% endfor %}
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Funding sources</td>
+              <td>
+                  The World Bank Group intends to finance the assignment/services under:
+                  <ul>
+                  {% for item in page.SELECTION_TRUST_FUND %}
+                     <li>{{ item.TRUST_FUND_NUMBER }} - {{ item.TRUST_FUND_DESC }}</li>
+                  {% endfor %}
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Individual/firm</td>
+              <td>{% if page.SELECTION_NOTIFICATION.SELECTION_TYPE_ID == 1 %}Individual{% else %}Firm{% endif %}</td>
+          </tr>
+    </table>
+    
+    <h2>Assignment Description</h2>
+    <pre style="white-space:pre-wrap;">
+    {{ page.SELECTION_NOTIFICATION.ADVERTISEMENT_TEXT }}
+     </pre>
+
+    {% if page.NOTIFICATION_QUAL_CRIT.size > 0 %}
+    <h2>Qualification Criteria</h2>
+    <ol>
+    {% for item in page.NOTIFICATION_QUAL_CRIT %}
+       <li>{{ item.CONTENT }}</li>
+    {% endfor %}
+    </ol>
+    {% endif %}
+    
+  </div>
+
+</article>
