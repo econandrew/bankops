@@ -12,3 +12,6 @@ def lambda_handler(event, context):
     call(["git", "push", "origin", "master"])
     call(["git", "subtree", "push", "--prefix", "jekyll", "origin", "gh-pages"])
     return 0
+    
+if __name__ == "__main__":
+    lambda_handler(None, None)
