@@ -2,10 +2,11 @@ from subprocess import call
 import sys
 
 def lambda_handler(event, context):
+    call(["sudo yum -y install libxml2-devel libxslt-devel"], stdout = sys.stdout, shell=True)
     call(["sudo yum -y install gcc"], stdout = sys.stdout, shell=True)
     call(["sudo yum -y install git"], stdout = sys.stdout, shell=True)
-    call(["pip", "install", "requests"], stdout = sys.stdout)
-    call(["pip", "install", "lxml"], stdout = sys.stdout)
+    call(["sudo pip install requests"], stdout = sys.stdout, shell=True)
+    call(["sudo pip install lxml"], stdout = sys.stdout, shell=True)
     call(["git", "pull"], stdout = sys.stdout)
     call(["rm data/*.xml"], shell=True)
     call(["rm jekyll/notifications/*.md"], stdout = sys.stdout, shell=True)
