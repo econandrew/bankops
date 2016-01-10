@@ -1,7 +1,7 @@
 from subprocess import call
 import sys
 
-def lambda_handler:
+def lambda_handler(event, context):
     call(["pip", "install", "requests"])
     call(["pip", "install", "lxml"])
     call(["git", "pull"], stdout = sys.stdout)
@@ -11,3 +11,4 @@ def lambda_handler:
     call(["git", "commit", "-a", "-m" "'Automatic refresh'"])
     call(["git", "push", "origin", "master"])
     call(["git", "subtree", "push", "--prefix", "jekyll", "origin", "gh-pages"])
+    return 0
