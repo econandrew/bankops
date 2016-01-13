@@ -24,14 +24,15 @@ yamler = ET.XSLT(xslt_yaml)
 r = requests.post(url, request_list)
 
 list_tree = ET.fromstring(r.content)
-for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NUMBER'):
+for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}ID'):
     print("Processing notification {}".format(elid.text))
     r = requests.post(url, request_item.format(id=elid.text))
 
     tree = ET.fromstring(r.content)
     simple_tree = simplifier(tree)
+    elselid = simple_tree.find('./{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_ID')
     simple_tree.write("data/{}.xml".format(elid.text))
     yaml_tree = yamler(simple_tree)
 
-    with open("jekyll/notifications/{}.md".format(elid.text), "w") as f:
+    with open("jekyll/notifications/{}.md".format(elselid.text), "w") as f:
         f.write(str(yaml_tree))
