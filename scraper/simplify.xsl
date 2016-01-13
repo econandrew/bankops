@@ -38,4 +38,8 @@
 </xsl:copy>
 </xsl:template>
 
+<!-- this is a computed field that causes spurious diffs, so we suppress it -->
+<xsl:template match="WBN:BEFORE_EOI_DEADLINE">
+</xsl:template>
+
 </xsl:stylesheet>
