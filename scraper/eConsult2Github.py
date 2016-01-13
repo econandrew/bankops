@@ -31,7 +31,7 @@ for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notific
     tree = ET.fromstring(r.content)
     simple_tree = simplifier(tree)
     elselid = simple_tree.find('./{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_ID')
-    simple_tree.write("data/{}.xml".format(elid.text))
+    simple_tree.write("data/{}.xml".format(elselid.text))
     yaml_tree = yamler(simple_tree)
 
     with open("jekyll/notifications/{}.md".format(elselid.text), "w") as f:
