@@ -41,5 +41,5 @@ for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notific
     count += 1
     
 with open("jekyll/_data/last.yml", "w") as f:
-    f.write("updated: {}", datetime.datetime.now().isoformat())
-    f.write("count: {}", count)
+    f.write("updated: {}\n".format(datetime.datetime.now().isoformat()))
+    f.write("count: {}\n".format(count))
