@@ -24,7 +24,7 @@ yamler = ET.XSLT(xslt_yaml)
 r = requests.post(url, request_list)
 
 list_tree = ET.fromstring(r.content)
-for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}ID'):
+for elid in list_tree.findall('.//{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NOTIFICATION/{http://cordys.com/WBGEC/DBT_Selection_Notification/1.0}SELECTION_NUMBER'):
     print("Processing notification {}".format(elid.text))
     r = requests.post(url, request_item.format(id=elid.text))
 
