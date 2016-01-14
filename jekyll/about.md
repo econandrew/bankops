@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About & how to express interest
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The World Bank Group advertises operational consulting opportunities on the [eConsultant2 website](https://wbgeconsult2.worldbank.org). Unfortunately, that site lacks an easy way to directly link to an opportunitity listed, nor is it indexed by Google. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+The notices are officially mirrored at dgMarkets and UNDB Online and also by Devex, but these sites require either payment or at least login. This does not seem like the best way to present procurement opportunities to the largest possible audience. Notice that the eConsultant2 site itself does not require a login.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This site extracts procurement notices from the eConsultant2 API feed, and uploads each notice to Github in both a [simplified XML](https://github.com/econandrew/bankops/tree/master/data) representation, and in a [YAML/MD format](https://github.com/econandrew/bankops/tree/master/jekyll/notifications), which are automatically converted to the readable pages you fin d index here (using Jekyll). This means the notices are easily available to everyone, searchable, and that their history is traceable.
+
+I have to stress that THIS IS NOT A WORLD BANK GROUP SITE and NO WARRANTY IS OFFERED AS TO THE ACCURACY OF THE NOTICES PROVIDED. Always check eConsultant2 for the real deal.
