@@ -10,4 +10,4 @@ The notices are officially mirrored at dgMarkets and UNDB Online and also by Dev
 
 This site extracts procurement notices from the eConsultant2 API feed, and uploads each notice to Github in both a [simplified XML](https://github.com/econandrew/bankops/tree/master/data) representation, and in a [YAML/MD format](https://github.com/econandrew/bankops/tree/master/jekyll/notifications), which are automatically converted to the readable pages you fin d index here (using Jekyll). This means the notices are easily available to everyone, searchable, and that their history is traceable.
 
-I have to stress that THIS IS NOT A WORLD BANK GROUP SITE and NO WARRANTY IS OFFERED AS TO THE ACCURACY OF THE NOTICES PROVIDED. Always check [eConsultant2]((https://wbgeconsult2.worldbank.org)) for the real deal, and login via that site to express interest in an opportunity.
+I have to stress that THIS IS NOT A WORLD BANK GROUP SITE and NO WARRANTY IS OFFERED AS TO THE ACCURACY OF THE NOTICES PROVIDED. Always check [eConsultant2](https://wbgeconsult2.worldbank.org) for the real deal, and login via that site to express interest in an opportunity.
