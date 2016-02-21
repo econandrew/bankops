@@ -1,0 +1,67 @@
+<NOTIFICATION xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/" xmlns:WB="http://cordys.com/WBGEC/BPM_Notification/1.0" xmlns:WBN="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0" xmlns:WBC="http://cordys.com/WBGEC/DBT_Selection_Country/1.0" xmlns:WBTF="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0" xmlns:WBNA="http://cordys.com/WBGEC/DBT_Notification_Attachment/1.0" xmlns:WBQC="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0"><SELECTION_NOTIFICATION xmlns="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0"><SELECTION_ID>1212855</SELECTION_ID><NOTIFICATION_TYPE_ID>3</NOTIFICATION_TYPE_ID><TYPE_NAME>Advertise in Bidding Opportunities page</TYPE_NAME><PUBLICATION_DATE>2016-02-19T00:00:00.0</PUBLICATION_DATE><EOI_DEADLINE>2016-03-11T23:59:59.900000000</EOI_DEADLINE><ADVERTISEMENT_TEXT>SELECTION FOR CONSULTANTS BY THE WORLD BANK GROUP
+
+REQUEST FOR EXPRESSIONS OF INTEREST
+
+Electronic Submissions through World Bank Group eConsultant2
+https://wbgeconsult2.worldbank.org/wbgec/index.html
+
+ASSIGNMENT OVERVIEW
+
+Assignment Title: Solar Resource Assessment and Mapping [Master Agreement]
+
+Assignment Countries:
+  - World
+
+ASSIGNMENT DESCRIPTION
+
+A.	INTRODUCTION
+The World Bank and the International Finance Corporation (IFC) are scaling up their operational lending and investments relating to renewable energy, and in particular solar power, in response to growing client demand. A key component of the advice provided to clients, and an important input to the evaluation of prospective lending/investment projects, is solar resource assessment and mapping. Outputs are needed for multiple different purposes, including: i) building a shared understanding of the resource potential, and the role that solar power could play in the energy mix; ii) carrying out strategic planning studies, including those relating to grid integration; iii) supporting policy development, including establishment of tariffs, incentives, PPAs, or auctions, and ensuring a well-informed off-taker; iv) attracting commercial developers; v) site prospecting and comparison; and vi) project due diligence.
+To help meet these needs, The World Bank and the IFC are seeking a supplier of high quality, global solar resource assessment and mapping services under a multi-year Master Agreement, to include a range of global, country-based, and project-specific services and outputs.
+This selection builds on the existing initiative on Renewable Energy Resource Assessment and Mapping led by the Energy Sector Management Assistance Program (ESMAP), a multi-donor trust fund administered by The World Bank, and is intended to provide a more sustainable, wholesale approach for obtaining the required data and outputs, more quickly and at lower cost than from detailed country-level studies. The resulting Master Agreement (contract) will be issued by the World Bank Group (WBG), and will therefore apply to both World Bank and IFC project teams.
+
+B.	GENERAL SCOPE OF THE SERVICES
+The envisaged scope of the Master Agreement would be based on access to high quality, global, and regularly updated solar resource data from a maintained dataset, founded on the most advanced, peer reviewed solar resource modeling methodologies currently available. The resource data shall be scientifically validated using ground-based measurements where these exist, with the validation results in the public domain. However, the Master Agreement would not include provision for new ground-based measurements, nor would the winning Vendor be expected to commission ground-based measurements themselves. The dataset shall include all the key variables for solar resource assessment, including GHI, DNI, PVOUT and TEMP, at a minimum resolution of 5km, with a temporal coverage of at least 10 years.
+
+Specific services and outputs may include:
+- A global, online mapping platform that provides high quality summary data that is publicly available: essentially a Global Solar Atlas to accompany the Global Wind Atlas developed by DTU Wind;
+- Global GIS layers for key solar resource outputs, to be made available via the IRENA Global Atlas;
+- Tailored GIS layers for every country in the world, to be made available via the IRENA Global Atlas;
+- Accompanying posters showing key solar resources for every country in the world, to be provided for download from The World Bank and IRENA websites;
+- Access to software tools that provide more detailed access to key solar data and allow for desktop analysis;
+- Country-specific and project-specific time series or typical meteorological year (TMY) data for internal WBG use, as requested by WBG project teams;
+- Country-specific and project-specific reports and guides for both internal WBG use and for public dissemination, as requested by WBG project teams;
+- In-country training and capacity building, and provision of advice to clients;
+- Annual or bi-annual updates to the underlying solar resource database and all outputs;
+- An annually updated report outlining priority regions, countries and specific locations where additional ground measurements are needed for validation purposes, based on climatic zones and the existing availability of high quality measurement data in the public domain;
+- A transparent process for validating the solar resource model, including an annual validation report using publicly available measurement data.
+
+Full Terms of Reference (TOR) will be issued with the Request for Proposals (RFP) package will contain a more detailed description of the scope of services to be provided.
+
+C.	EXPRESSION OF INTEREST &amp; INFORMATION
+Consultants are invited to submit Expressions of Interest (EOI) for this selection, which shall include:
+- Outline of the Consultants (or Consortiums) core business and experience in carrying out solar resource assessment and mapping;
+- Summary description of their methodological approach and solar resource model, including the extent to which it has been peer reviewed; the level of methodological transparency; and a description of existing model validation studies and their results;
+- Summary description of the satellites, ground-based measurement networks, and other data sources that provide inputs to the Consultants model and analysis; 
+- Confirmation of their ability to offer global, on-demand services in response to WBG requests;
+- Description of any licensing requirements/restrictions or data proprietary issues;
+- Experience of working with and in WBG client countries;
+- Details of key members of the Consultants team and their experience with solar resource assessment and mapping;
+- Details of any international, regional or country-specific partnerships or technical cooperation agreements;
+- Any restrictions (security or otherwise) on the Consultants ability to operate in the countries where the World Bank Group has an operational presence;
+- Details on the Consultants size in terms of number of staff and annual turnover;
+- Any comments that the Consultant has on the approach being proposed or methodological considerations that the WBG should take into account.
+
+D.	FIRM PROFILE
+It is anticipated that Consultants responding to this EOI will be firms, or consortia of firms (with one firm designated as the lead vendor).
+
+E.	SUBMISSION REQUIREMENTS
+The World Bank now invites eligible consultants to indicate their interest in a Master Agreement for the provision of services. 
+
+Interested Consultants must provide information indicating that they are qualified to perform the services, referring to the guidance above. Consultants may associate with other invited and non-invited firms to enhance their qualifications. The EOI submission shall be in the form of a single attached PDF proposal, including any annexes. Please note that the total size of this PDF file should be less than 5MB. We require that Consultants limit their EOI to a focused and tailored submission not to exceed 10 pages, exclusive of CVs and suggestions/comments on the proposed approach/methodology, which can be included as annex material. EOI submissions that go beyond the 10 page limit WILL NOT BE REVIEWED beyond this point, which may negatively impact on the scoring that is given. The intention at this stage is to assess the suitability of each Consultant to be invited to the RFP stage, and so firms should focus on responding to the criteria outlined in Section C above, and should keep their EOI submissions concise and to the point.
+
+F.	NOTES
+Following the completion of the EOI stage, eligible consultants will be invited to the RFP stage, which will include a full technical and financial evaluation. The highest scoring vendor shall be offered a Master Agreement with the WBG. A Master Agreement is a form of Contract issued to facilitate requirements of an indefinite quantity over a specific period or contract term. Specific services will be contracted via a Task Order directly based on demand from project teams and clients.
+
+Interested consultants are hereby invited to submit expressions of interest.
+
+Expressions of Interest of no more than 10 pages (excluding annexes) should be submitted as a single PDF attachment, in English, electronically through World Bank Group eConsultant2 (https://wbgeconsult2.worldbank.org/wbgec/index.html).</ADVERTISEMENT_TEXT><DRAFT_FLAG>0</DRAFT_FLAG><LANGUAGE_OF_NOTICE>English</LANGUAGE_OF_NOTICE><ADVERTISE_UNTIL>2016-03-11T23:59:59.0</ADVERTISE_UNTIL><SELECTION_NUMBER>1212855</SELECTION_NUMBER><SELECTION_TITLE>Solar Resource Assessment and Mapping [Master Agreement]</SELECTION_TITLE><SELECTION_TYPE_ID>2</SELECTION_TYPE_ID><SELECTION_SUB_STATUS_ID>8</SELECTION_SUB_STATUS_ID></SELECTION_NOTIFICATION><SELECTION_COUNTRY/><SELECTION_TRUST_FUND><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">415993</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1212855</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BB</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">0</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BANK BUDGET</TRUST_FUND_DESC></_><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">415994</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1212855</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">TF012735</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">100</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">Renewable Energy Resource Mapping</TRUST_FUND_DESC></_></SELECTION_TRUST_FUND><NOTIFICATION_ATTACHMENT/><NOTIFICATION_QUAL_CRIT/></NOTIFICATION>
