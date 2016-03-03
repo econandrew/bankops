@@ -1,0 +1,110 @@
+<NOTIFICATION xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/" xmlns:WB="http://cordys.com/WBGEC/BPM_Notification/1.0" xmlns:WBN="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0" xmlns:WBC="http://cordys.com/WBGEC/DBT_Selection_Country/1.0" xmlns:WBTF="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0" xmlns:WBNA="http://cordys.com/WBGEC/DBT_Notification_Attachment/1.0" xmlns:WBQC="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0"><SELECTION_NOTIFICATION xmlns="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0"><SELECTION_ID>1213879</SELECTION_ID><NOTIFICATION_TYPE_ID>3</NOTIFICATION_TYPE_ID><TYPE_NAME>Advertise in Bidding Opportunities page</TYPE_NAME><PUBLICATION_DATE>2016-02-24T00:00:00.0</PUBLICATION_DATE><EOI_DEADLINE>2016-03-03T23:59:59.900000000</EOI_DEADLINE><ADVERTISEMENT_TEXT>SELECTION FOR CONSULTANTS BY THE WORLD BANK GROUP
+
+REQUEST FOR EXPRESSIONS OF INTEREST
+
+Electronic Submissions through World Bank Group eConsultant2
+https://wbgeconsult2.worldbank.org/wbgec/index.html
+
+ASSIGNMENT OVERVIEW
+
+Assignment Title: 1213879 - Data Management Specialist
+Short Term Consultant 
+
+Assignment Countries:
+  - Uzbekistan
+
+ASSIGNMENT DESCRIPTION
+
+Background
+Finance &amp; Market Global Practice
+
+The Finance &amp; Markets Global Practice (F&amp;MGP) aims to help countries build deep, diversified, inclusive, efficient and stable financial systems, which are essential to promoting economic growth and reducing poverty and increasing shared prosperity. The practice is committed to delivering public and private sector tailored solutions to development challenges by leveraging the whole range of the Bank Group's financial, knowledge/advisory and convening services for clients. In doing so, the practice not only partners with the broader World Bank finance team (IFC, WB, MIGA and WB/IFC Treasuries) but also acts as an enabler for all of the other GPs and Cross-Cutting Groups. 
+
+As a joint World Bank -IFC practice, the F&amp;MGP brings together the World Bank's knowledge, finance (loans, credits, guarantees, risk management products), and convening services, and IFC advisory in private-sector firms into a single suite of development solutions for our clients and the global community to support reaching the twin goals of eliminating extreme poverty and promoting shared prosperity. 
+
+Today, this suite of financial solutions is in excess of US$10 billion in current and pipeline engagement commitments. We also have an ongoing portfolio of about 400 knowledge activities (with costs up to $73 million) and 98 IFC advisory services (valued at $136 million) 
+
+Led by a Senior Director and two Directors, the practice is managed by a cadre of 14 Practice Managers who oversee its regional teams and global solutions groups, and CGAP, which has a dedicated Director. Thematically, the practice is organized into three global solutions groups. The first groups activities aimed at Strengthening the foundations of stable financial systems and markets by supporting global financial sector oversight frameworks and policies; strengthening banking regulation and restructuring regimes; improving financial sector integrity efforts and deepening capital markets, insurance, pensions and investment funds; the second Improving financial infrastructure and access through its work on credit infrastructures; payment and market infrastructures; responsible financial access: and SME finance, and the third on partnering with other practices on frontier development finance initiatives such as climate change finance, disaster risk finance and insurance, infrastructure finance, agriculture finance and housing finance.
+
+The Project
+
+The aim of the overall Project is to improve (a) access to finance and (b) access to markets for producers in 2 to 4 agricultural supply chains/products in the Kyrgyz Republic, Tajikistan and Uzbekistan. 
+
+The goal will be met through work in two main areas, which will form two key components of the Project: 
+-	To increase access to finance for farmers and other agri supply chain participants by improving the capacity of FIs. 
+-	To improve the bankability of farmers and other participants of supply chains (aggregators) by improving their capacity and access to markets. 
+The Project will look at limited access to finance for farmers/producers from two perspectives: lack of skills/knowledge (of risks in agriculture and availability of relevant tools) in financial institutions (FIs) and low bankability of farmers/producers due to lack of capacity and lack of avenues to improve this capacity. To address this failure, the Project will provide advisory services to Partner FIs to identify potential clients that match their criteria and provide assistance in preparing loan documentation. For this purpose, the Project has developed a web-based Cash-flow Linked Agri-Risk Assessment toolkit (CLARA).  
+
+
+Objective of the Assignment
+
+The Project is hiring a Data Management Specialist whose tasks will be to support the Project staff in processing and storing incoming coded data from the agronomists and local data provider in CLARA. The Data Management Specialist will also engage with expert agronomists and collaborate with the Project teams specialists. 
+
+Scope of Work and Activities
+The Data Management Specialist will need to review and understand CLARA internal structure, that is, its database structure, analytical processes (business logic), data flows, and other aspects. Following this initial review and preparation, the Data Management Specialist will develop a maintainers manual containing CLARA internal structure and detailed maintenance guidelines, which will be used to facilitate onboarding of a similar specialist in the future, should this be required. After that, the Data Management Specialist will switch to his/her main mode of work: he/she will address the needs of the Project Partners by:
+-	Maintaining CLARA existing database;
+-	Collecting, processing, and storing incoming data from the Project team members, local agronomists, and local data providers;
+-	Maintaining and making changes, corrections, and/or additions to CLARA analytical processes (business logic); and
+-	Testing the newly added/developed elements with the team prior to launching it for a Partner;
+-	Collecting requests for changes, feedback on bugs and errors, and following up by making changes or corrections in CLARA;
+More specifically, the Data Management Specialist will have the following scope of work:
+	Know and understand CLARA internal structure;
+	Prepare a maintainers manual on CLARA and keep it up-to-date;
+	Prepare changes to the analytical process (business logic) and the database structure following requests from Partners, the Project team, agronomists, or data providers;
+o	Advise on collecting crop plans in Excel format from experts working on CLARA adaptation, check them for correctness and transform them into a format ready for import to the database;
+o	Advise on collecting initial price data as well as periodic price updates from a local data provider in agreed format (can be Excel, Access, or another system), check it for correctness and transform it into a format ready for import to the database;
+o	Import crop plans, initial price data and periodic price updates to the CLARA database;
+	Explain proposed changes to the Project team and get agreement;
+	Implement agreed changes to CLARA database and analytical process (business logic);
+	Collect feedback from the adaptation team during the testing phase and follow up on it by making changes to the database and/or to the analytical process (business logic);
+	Work closely with the Projects specialists.
+	Perform other similar assignments required by Project Manager.
+
+Deliverables: 
+As a result of work of the Data Management Specialist, the following specific outputs are expected:
+	All changes to CLARA database logged in Excel files; all changes to CLARA analytical processes (business logic) logged using a version control system. As a result, any changes to the analytical processes (business logic) and to the database can be rolled back if necessary, and the logs are properly stored.
+	Maintainers manual on CLARA developed
+	CLARA works properly and satisfies the needs of the Project Partners.
+
+Special Terms &amp; Conditions / Specific Requirements
+
+The Data Management Specialist will get access to CLARA source code and its database and get detailed explanations of how it works.
+
+Length and Duration of the Assignment
+
+The length of this assignment is estimated at 45 working days between March 14  and June 30, 2016.
+
+Qualification and Experience Requirements:
+
+	Demonstrated knowledge of best practice in IT systems designing;
+	At least 7 years of practical experience in developing web-based applications;
+	Demonstrated experience in data collection, management and maintenance;
+	Demonstrated knowledge of programming of web applications;
+	Fluent Russian and Uzbek, and at least intermediate English;
+	Good communication and interpersonal skills;
+	Demonstrated ability to set priorities and to work with minimum supervision in order to meet deadlines;
+	Understanding of agriculture and agri-economics is a plus but not required.
+
+FUNDING SOURCE
+
+The World Bank intends to finance the assignment / services described below under the following trust fund(s):
+  - BANK BUDGET
+  - Austria: Central Asia Agrifinance Project (CAAP)
+
+ELIGIBILITY
+
+Eligibility restrictions apply:
+[Please type list of restrictions]
+
+INDIVIDUAL / FIRM PROFILE
+The consultant should be an individual. 
+
+SUBMISSION REQUIREMENTS
+The World Bank now invites eligible consultants to indicate their interest in providing the services.  Interested consultants must provide information indicating that they are qualified to perform the services (brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff, etc.).  Please note that the total size of all attachments should be less than 5MB.  
+
+Interested consultants are hereby invited to submit expressions of interest.
+
+Expressions of Interest should be submitted, in English, electronically through World Bank Group eConsultant2 (https://wbgeconsult2.worldbank.org/wbgec/index.html)
+
+NOTES
+Selection and contracting will normally be made from responses to this notification.  The consultant will be selected from a shortlist, subject to availability of funding.</ADVERTISEMENT_TEXT><DRAFT_FLAG>0</DRAFT_FLAG><LANGUAGE_OF_NOTICE>English</LANGUAGE_OF_NOTICE><ADVERTISE_UNTIL>2016-03-03T23:59:59.0</ADVERTISE_UNTIL><SELECTION_NUMBER>1213879</SELECTION_NUMBER><SELECTION_TITLE>Data Management Specialist</SELECTION_TITLE><SELECTION_TYPE_ID>1</SELECTION_TYPE_ID><SELECTION_SUB_STATUS_ID>8</SELECTION_SUB_STATUS_ID></SELECTION_NOTIFICATION><SELECTION_COUNTRY><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">UZ</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Uzbekistan</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">TJ</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Tajikistan</COUNTRY_NAME></_></SELECTION_COUNTRY><SELECTION_TRUST_FUND><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">417987</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1213879</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BB</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">0</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BANK BUDGET</TRUST_FUND_DESC></_><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">417988</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1213879</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">TF015740</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">100</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">Austria: Central Asia Agrifinance Project (CAAP)</TRUST_FUND_DESC></_></SELECTION_TRUST_FUND><NOTIFICATION_ATTACHMENT/><NOTIFICATION_QUAL_CRIT/></NOTIFICATION>
