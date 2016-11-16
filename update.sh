@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd /Users/andrew/Documents/Work/WBG/econsult2/
 git pull
 rm data/*.xml
 rm jekyll/notifications/*.md
