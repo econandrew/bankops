@@ -1,0 +1,75 @@
+<NOTIFICATION xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/" xmlns:WB="http://cordys.com/WBGEC/BPM_Notification/1.0" xmlns:WBN="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0" xmlns:WBC="http://cordys.com/WBGEC/DBT_Selection_Country/1.0" xmlns:WBTF="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0" xmlns:WBNA="http://cordys.com/WBGEC/DBT_Notification_Attachment/1.0" xmlns:WBQC="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0"><SELECTION_NOTIFICATION xmlns="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0"><SELECTION_ID>1233187</SELECTION_ID><NOTIFICATION_TYPE_ID>3</NOTIFICATION_TYPE_ID><TYPE_NAME>Advertise in Bidding Opportunities page</TYPE_NAME><PUBLICATION_DATE>2016-12-09T00:00:00.0</PUBLICATION_DATE><EOI_DEADLINE>2016-12-26T23:59:59.900000000</EOI_DEADLINE><ADVERTISEMENT_TEXT>SELECTION FOR CONSULTANTS BY THE WORLD BANK GROUP
+
+REQUEST FOR EXPRESSIONS OF INTEREST
+
+Electronic Submissions through World Bank Group eConsultant2
+https://wbgeconsult2.worldbank.org/wbgec/index.html
+
+ASSIGNMENT OVERVIEW
+
+Assignment Title: 1233187 - Consultancy for hydraulic modeling  Enhancing Resilience of Mekong Delta Region Secondary Cities Grant support to the proposed Scaling up Urban Upgrading Project (SUUP)
+
+Assignment Countries:
+  - Vietnam
+
+ASSIGNMENT DESCRIPTION
+
+Development of hydraulic models for water simulation in 7 cities supporting risk screening of infrastructural intervention proposals.
+III. Scope of Work
+Task 1: Preparation with an inventory of flood hazards and available models and data: 
+	Provide a comprehensive  assessment  of  the  threats caused  by  flood  hazards  in  the seven cities: (1) by providing a description of past flood events, including flood driving forces, magnitudes, etc.; and (2) possible future threats, e.g. by combinations of flood driving forces, land use and climate change impacts, etc.;
+	Describe the methodology to arrive at flood hazard mapping for each of the seven cities with special attention for the possible combinations of flood driving forces;
+	Provide an inventory of hydrological and hydraulic models readily available for application to five of the seven project cities, where modelling has not been started yet and make arrangements to use one of these; The reason for the selection of models should be made explicitly and discussed with the World Bank task team;
+	Describe the model adaptations required for the use of these models to serve the study of the impacts of the project interventions proposed by the cities;
+	Provide an inventory of additional data available for the model adaptations and applications from city and delta region sources and evaluate adequacy and data quality for possible use in the proposed flood modeling;
+	If necessary, and/or requested by the World Bank task team, survey a limited number of river cross-sections and hydraulic structures for setting up the adapted schematization in the models;
+	Carry out analysis of historical data including, but not limited to, flood hazards due to rainfall and Mekong Delta rivers monsoon surge and tidal levels;
+	Analyze factors influencing future changes for each city due to climate changes and changed Mekong River runoff in the Mekong Delta river branches;
+	Prepare and develop a digital library of geographical land use, topographic information, availability of digital elevation maps, and thematic information.
+Outputs: Inception  Report  reflecting  Task  1  findings  and  modeling  approach,  including  process report of consultations and actions taken; additional drainage canal/river surveys, etc.
+
+Task 2: Adapt the existing hydrological and hydraulic models for the seven cities
+	Adapt the selected hydrological and hydraulic model for each of the seven cities;
+	Establish rainfall (3h, 12h and 24h)-runoff hydrographs (1:10, 1:25, 1:50 and 1:100 years for river flood and 2 years, 3 years, 5 year and 10 years for rainfall) for application in each city, based upon IDF curves and aerial reduction curves applicable;
+	Establish hydraulic boundary conditions for the models;
+	Establish parameter and hydrograph changes related to adapted rainfall, boundary conditions and land use characteristics for the year 2030 and 2050.
+Outputs: Adapted flood inundation models to produce the required flood hazard maps.
+
+Task 3: Flood hazard mapping and additional recommendations for the seven cities
+Produce flood hazard maps in GIS based environment showing maximum flood depth and duration, specified as follows:
+	Run the models for the cities with SUUP interventions to investigate flooding with return periods of :10, 1:25, 1:50 and 1:100 years for river flood and 2 years, 3 years, 5 year and 10 years for rainfall for the current conditions;
+	Repeat these simulations for conditions applicable in 2030 and 2050 under the impacts of climate and land use changes;
+	Report on other disaster threats, including expected changes in salt intrusion;
+	Overlay the hazard maps with key urban and socio-economic indicators such as land use, population, income, infrastructure, etc,;
+Outputs: Flood hazard maps of the seven cities with specified return periods and climate and land use change scenarios and comments on additional threats, including all assumptions made and maps that have been used.
+
+Task 4: Training assigned staffs of the seven cities
+	Train the staff assigned by the cities in the understanding of the use of hydrological and hydraulic models for their cities flood hazard analyses;
+	Train the staff of the cities in using flood hazard maps for integrated urban management.
+Outputs:  hand-on training course for assigned staff for each city.
+
+FUNDING SOURCE
+
+The World Bank Group intends to finance the assignment / services described below under the following:
+  - Enhancing Resilience of Mekong Delta Region Secondary Cities
+  - BANK BUDGET
+
+ELIGIBILITY
+
+- National consulting firm should have at least 5-years experience in developing and running hydrological and hydraulic models in the Mekong Delta. In-house availability of modelling and data are favorable.  
+- The key staffs to be provided by the consultant as shown in TOR .  However, the consultants are free to propose their own team composition suitable for the project over the 4-month duration of the consultancy.  The  team  leader  has  essentially  to  be  a  Flood  Inundation Modeler who has built up experience in at least three similar projects.
+
+INDIVIDUAL / FIRM PROFILE
+The consultant will be a firm. 
+
+SUBMISSION REQUIREMENTS
+The World Bank Group now invites eligible firms to indicate their interest in providing the services.  Interested firms must provide information indicating that they are qualified to perform the services (brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff, etc. for firms; CV and cover letter for individuals).  Please note that the total size of all attachments should be less than 5MB.  Consultants may associate to enhance their qualifications.
+
+Interested firms are hereby invited to submit expressions of interest.
+
+Expressions of Interest should be submitted, in English, electronically through World Bank Group eConsultant2 (https://wbgeconsult2.worldbank.org/wbgec/index.html)
+
+NOTES
+Following this invitation for Expression of Interest, a shortlist of qualified firms will be formally invited to submit proposals. Shortlisting and selection will be subject to the availability of funding.
+
+Only those firms which have been shortlisted will receive notification. No debrief will be provided to firms which have not been shortlisted.</ADVERTISEMENT_TEXT><DRAFT_FLAG>0</DRAFT_FLAG><LANGUAGE_OF_NOTICE>English</LANGUAGE_OF_NOTICE><ADVERTISE_UNTIL>2016-12-26T23:59:59.0</ADVERTISE_UNTIL><SELECTION_NUMBER>1233187</SELECTION_NUMBER><SELECTION_TITLE>Consultancy for hydraulic modeling  Enhancing Resilience of Mekong Delta Region Secondary Cities Grant support to the proposed Scaling up Urban Upgrading Project (SUUP)</SELECTION_TITLE><SELECTION_TYPE_ID>2</SELECTION_TYPE_ID><SELECTION_SUB_STATUS_ID>8</SELECTION_SUB_STATUS_ID></SELECTION_NOTIFICATION><SELECTION_COUNTRY><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">VN</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Vietnam</COUNTRY_NAME></_></SELECTION_COUNTRY><SELECTION_TRUST_FUND><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">455685</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1233187</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">TF0A3362</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">100</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">Enhancing Resilience of Mekong Delta Region Secondary Cities</TRUST_FUND_DESC></_><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">455684</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1233187</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BB</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">0</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BANK BUDGET</TRUST_FUND_DESC></_></SELECTION_TRUST_FUND><NOTIFICATION_ATTACHMENT/><NOTIFICATION_QUAL_CRIT><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">57161</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information showing that they are qualified in the field of the assignment.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">0</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">57162</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on the technical and managerial capabilities of the firm.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">2</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">0</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">57163</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on their core business and years in business.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">3</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">0</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">57164</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on the qualifications of key staff.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">4</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">0</MANDATORY></_></NOTIFICATION_QUAL_CRIT></NOTIFICATION>
