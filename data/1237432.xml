@@ -1,0 +1,63 @@
+<NOTIFICATION xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/" xmlns:WB="http://cordys.com/WBGEC/BPM_Notification/1.0" xmlns:WBN="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0" xmlns:WBC="http://cordys.com/WBGEC/DBT_Selection_Country/1.0" xmlns:WBTF="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0" xmlns:WBNA="http://cordys.com/WBGEC/DBT_Notification_Attachment/1.0" xmlns:WBQC="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0"><SELECTION_NOTIFICATION xmlns="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0"><SELECTION_ID>1237432</SELECTION_ID><NOTIFICATION_TYPE_ID>3</NOTIFICATION_TYPE_ID><TYPE_NAME>Advertise in Bidding Opportunities page</TYPE_NAME><PUBLICATION_DATE>2017-03-02T00:00:00.0</PUBLICATION_DATE><EOI_DEADLINE>2017-03-23T23:59:59.900000000</EOI_DEADLINE><ADVERTISEMENT_TEXT>SELECTION FOR CONSULTANTS BY THE WORLD BANK GROUP
+
+REQUEST FOR EXPRESSIONS OF INTEREST
+
+Electronic Submissions through World Bank Group eConsultant2
+https://wbgeconsult2.worldbank.org/wbgec/index.html
+
+ASSIGNMENT OVERVIEW
+
+Assignment Title: 1237432 - Assessment of Battery Energy Storage Applications in the West African Power Pool (WAPP) Utilities and Countries
+
+Assignment Countries:
+  - Benin
+  - Cote d'Ivoire
+  - Burkina Faso
+  - Ghana
+  - Gambia, The
+  - Guinea
+  - Guinea-Bissau
+  - Liberia
+  - Mali
+  - Niger
+  - Nigeria
+  - Senegal
+  - Sierra Leone
+  - Togo
+
+ASSIGNMENT DESCRIPTION
+
+The work under this project will be done through the three major tasks described below:
+1. Feasibility study of energy storage for frequency support in WAPP power system 
+- Grid integration study of energy battery storage for frequency support
+- Assessment of grid scale energy battery storage implementation for middle and long term regional integration of WAPP countries
+2. Assessment of energy storage applications in WAPP countries (on grid systems and off-grid mini grids, building/factory storage, etc.)
+- Evaluation of energy battery storage systems for renewable energy integration in the WAPP region 
+- Assessment of energy battery storage application for off-grid systems such as mini grids 
+- Assessment of energy battery storage application for building and factory customers with the consideration of Loss of Load Expectation (LOLE)
+3. Financial assessment of incorporating energy storage for grid support
+
+FUNDING SOURCE
+
+The World Bank Group intends to finance the assignment / services described below under the following:
+  - Energy Storage application studies and knowledge exchange framework for Sustainable Green Growth in WAPP
+
+ELIGIBILITY
+
+Eligibility restrictions apply:
+[Please type list of restrictions]
+
+INDIVIDUAL / FIRM PROFILE
+The consultant will be a firm/institution or a joint venture firm.
+
+SUBMISSION REQUIREMENTS
+The World Bank Group now invites eligible firms to indicate their interest in providing the services.  Interested firms must provide information indicating that they are qualified to perform the services (brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff, etc. for firms; CV and cover letter for individuals).  Please note that the total size of all attachments should be less than 5MB.  Consultants may associate to enhance their qualifications.
+
+Interested firms are hereby invited to submit expressions of interest.
+
+Expressions of Interest should be submitted, in English, electronically through World Bank Group eConsultant2 (https://wbgeconsult2.worldbank.org/wbgec/index.html)
+
+NOTES
+Following this invitation for Expression of Interest, a shortlist of qualified firms will be formally invited to submit proposals. Shortlisting and selection will be subject to the availability of funding.
+
+Only those firms which have been shortlisted will receive notification. No debrief will be provided to firms which have not been shortlisted.</ADVERTISEMENT_TEXT><DRAFT_FLAG>0</DRAFT_FLAG><LANGUAGE_OF_NOTICE>English</LANGUAGE_OF_NOTICE><ADVERTISE_UNTIL>2017-03-23T23:59:59.0</ADVERTISE_UNTIL><SELECTION_NUMBER>1237432</SELECTION_NUMBER><SELECTION_TITLE>Assessment of Battery Energy Storage Applications in the West African Power Pool (WAPP) Utilities and Countries</SELECTION_TITLE><SELECTION_TYPE_ID>2</SELECTION_TYPE_ID><SELECTION_SUB_STATUS_ID>8</SELECTION_SUB_STATUS_ID></SELECTION_NOTIFICATION><SELECTION_COUNTRY><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">BJ</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Benin</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">CI</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Cote d'Ivoire</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">BF</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Burkina Faso</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">GH</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Ghana</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">GM</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Gambia, The</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">GN</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Guinea</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">GW</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Guinea-Bissau</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">LR</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Liberia</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">ML</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Mali</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">NE</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Niger</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">NG</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Nigeria</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">SN</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Senegal</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">SL</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Sierra Leone</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">TG</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Togo</COUNTRY_NAME></_><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">CV</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Cape Verde</COUNTRY_NAME></_></SELECTION_COUNTRY><SELECTION_TRUST_FUND><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">464837</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1237432</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">TF0A3943</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">100</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">Energy Storage application studies and knowledge exchange framework for Sustainable Green Growth in WAPP</TRUST_FUND_DESC></_><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">464836</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1237432</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BB</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">0</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BANK BUDGET</TRUST_FUND_DESC></_></SELECTION_TRUST_FUND><NOTIFICATION_ATTACHMENT/><NOTIFICATION_QUAL_CRIT><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59411</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information showing that they are qualified in the field of the assignment.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59412</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on the technical and managerial capabilities of the firm.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">2</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59413</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on their core business and years in business.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">3</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59414</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Provide information on the qualifications of key staff.</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">4</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_></NOTIFICATION_QUAL_CRIT></NOTIFICATION>
