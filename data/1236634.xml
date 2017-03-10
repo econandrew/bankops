@@ -1,0 +1,51 @@
+<NOTIFICATION xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/" xmlns:WB="http://cordys.com/WBGEC/BPM_Notification/1.0" xmlns:WBN="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0" xmlns:WBC="http://cordys.com/WBGEC/DBT_Selection_Country/1.0" xmlns:WBTF="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0" xmlns:WBNA="http://cordys.com/WBGEC/DBT_Notification_Attachment/1.0" xmlns:WBQC="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0"><SELECTION_NOTIFICATION xmlns="http://cordys.com/WBGEC/DBT_Selection_Notification/1.0"><SELECTION_ID>1236634</SELECTION_ID><NOTIFICATION_TYPE_ID>3</NOTIFICATION_TYPE_ID><TYPE_NAME>Advertise in Bidding Opportunities page</TYPE_NAME><PUBLICATION_DATE>2017-03-08T00:00:00.0</PUBLICATION_DATE><EOI_DEADLINE>2017-03-20T23:59:59.900000000</EOI_DEADLINE><ADVERTISEMENT_TEXT>SELECTION FOR CONSULTANTS BY THE WORLD BANK GROUP
+
+REQUEST FOR EXPRESSIONS OF INTEREST
+
+Electronic Submissions through World Bank Group eConsultant2
+https://wbgeconsult2.worldbank.org/wbgec/index.html
+
+ASSIGNMENT OVERVIEW
+
+Assignment Title: 1236634 - Technical Assistance for the upgrading of Fortaleza's multipurpose cadaster and capacity building support(Brazil)
+
+Assignment Countries:
+  - Brazil
+
+ASSIGNMENT DESCRIPTION
+
+The World Bank, with financing from the Spanish Fund for Latin America and the Caribbean (SFLAC), is seeking consultant services to support the improvement of Fortaleza's territorial information systems and provide capacity-building support to the Municipal Government of Fortaleza in issues related to multipurpose cadasters and spatial data infrastructure.
+
+The scope of the consultancy consists of the following tasks:
+
+1. Support for the consolidation of the Territorial Information System of Fortaleza (SITFor) for urban and environmental planning, including: (i) identification of the systems modules that need to be created and/or updated to improve the urban and environmental planning of the city of Fortaleza and definition of the technical and data requirements; and (ii) update of selected modules (e.g. public streets module), and collection, reconciliation and update of information in the database. 
+
+2. Development of local capacities in the Municipality of Fortaleza, including (i) organization of technical workshops for local staff on topics such as Geographic database - PostgreSQL / PostGIS, Ruby programming language, QGIS and AutoCad Map; and (ii) training related to the development, implementation and management of Multi-Purpose Cadasters and Spatial Data Systems for urban and environmental planning.
+
+The consulting assignment and all deliverables will be in Portuguese.
+
+
+FUNDING SOURCE
+
+The World Bank Group intends to finance the assignment / services described below under the following:
+    - Smarter planning in Fortaleza: moving towards a Spatial Data Infrastructure
+
+ELIGIBILITY
+
+Eligibility restrictions apply:
+Please see qualification criteria
+
+INDIVIDUAL / FIRM PROFILE
+The consultant will be a firm. 
+
+SUBMISSION REQUIREMENTS
+The World Bank Group now invites eligible firms to indicate their interest in providing the services.  Interested firms must provide information indicating that they are qualified to perform the services (brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff, etc. for firms; CV and cover letter for individuals).  Please note that the total size of all attachments should be less than 5MB.  Consultants may associate to enhance their qualifications.
+
+Interested firms are hereby invited to submit expressions of interest.
+
+Expressions of Interest should be submitted, in English, electronically through World Bank Group eConsultant2 (https://wbgeconsult2.worldbank.org/wbgec/index.html)
+
+NOTES
+Following this invitation for Expression of Interest, a shortlist of qualified firms will be formally invited to submit proposals. Shortlisting and selection will be subject to the availability of funding.
+
+Only those firms which have been shortlisted will receive notification. No debrief will be provided to firms which have not been shortlisted.</ADVERTISEMENT_TEXT><DRAFT_FLAG>0</DRAFT_FLAG><LANGUAGE_OF_NOTICE>English</LANGUAGE_OF_NOTICE><ADVERTISE_UNTIL>2017-03-20T23:59:59.0</ADVERTISE_UNTIL><SELECTION_NUMBER>1236634</SELECTION_NUMBER><SELECTION_TITLE>Technical Assistance for the upgrading of Fortaleza's multipurpose cadaster and capacity building support(Brazil)</SELECTION_TITLE><SELECTION_TYPE_ID>2</SELECTION_TYPE_ID><SELECTION_SUB_STATUS_ID>8</SELECTION_SUB_STATUS_ID></SELECTION_NOTIFICATION><SELECTION_COUNTRY><_><COUNTRY_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">BR</COUNTRY_ID><COUNTRY_NAME xmlns="http://cordys.com/WBGEC/DBT_Selection_Country/1.0">Brazil</COUNTRY_NAME></_></SELECTION_COUNTRY><SELECTION_TRUST_FUND><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">463435</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1236634</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BB</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">0</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">BANK BUDGET</TRUST_FUND_DESC></_><_><ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">463436</ID><SELECTION_ID xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">1236634</SELECTION_ID><TRUST_FUND_NUMBER xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">TF0A3249</TRUST_FUND_NUMBER><PERCENT_APPLIES xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">100</PERCENT_APPLIES><TRUST_FUND_DESC xmlns="http://cordys.com/WBGEC/DBT_Selection_Trust_Fund/1.0">Smarter planning in Fortaleza: moving towards a Spatial Data Infrastructure</TRUST_FUND_DESC></_></SELECTION_TRUST_FUND><NOTIFICATION_ATTACHMENT/><NOTIFICATION_QUAL_CRIT><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59066</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Organization presentation: include a cover letter introducing your firm/institution including information on core business and years in business, and capacity to deliver requested services in Brazil (2 pages maximum)</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59067</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Technical qualifications: include description of similar assignments related to: (1) development and improvement of cadasters and other territorial information systems; (2) capacity building activities related to territorial  and geographic information systems; and (3) other technical areas deemed relevant to this technical assignment (0.5 pages per project maximum)</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">2</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59069</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Qualifications of key staff: include the resumes/CVs of professional staff holding relevant technical experience and language skills (fluency in Portuguese required) (1 page maximum per key staff).</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">3</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_><_><NOTIFICATION_QUAL_CRIT_ID xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">59068</NOTIFICATION_QUAL_CRIT_ID><CONTENT xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">Regional qualifications: include a description of past and present similar projects in Brazil and other Latin American countries (0.5 pages per project maximum; project must be grouped according to category).</CONTENT><ITEM_ORDER xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">4</ITEM_ORDER><MANDATORY xmlns="http://cordys.com/WBGEC/DBT_Notification_Qual_Crit/1.0">1</MANDATORY></_></NOTIFICATION_QUAL_CRIT></NOTIFICATION>
